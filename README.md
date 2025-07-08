@@ -1552,7 +1552,3 @@ gcc mygrep.c -o mygrep -Wall -Wextra -fsanitize=address -g
 J'ai renoncé à la question 4. 
 
 J'ai fait de mon mieux pour rendre ce document propre et lisible. Je crois que je comprends un peu mieux la frustration de rédiger de beaux corrigers de TP et de voir qu'ils ne sont pas lus. Bonne chance pour la correction de ce TP-DM. 
-
-!!! note Commentaire
-Rassure toi, ton travail a été lu avec attention et c'était un réel plaisir !
-!!!
